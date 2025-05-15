@@ -6,7 +6,7 @@
 The goal is to analyze customer churn for Knet-Flicks, a video streaming and internet company, using a dataset of customer account details and churn status (viewer_status: Churned or Stayed). The project involves exploratory data analysis (EDA), clustering to identify customer segments, supervised learning to predict churn, and actionable recommendations to reduce churn. The dataset includes features such as demographics (Age, Gender, Married), subscription details (Tenure in Months, Monthly Charge, subscription_type), and service usage (Internet Service, Streaming TV, Avg Monthly GB Download).
 The analysis aims to uncover patterns in customer churn, identify at-risk segments, and provide data-driven strategies to improve customer retention, which is critical for Knet-Flicks to maintain its customer base and profitability.
 # Methodology
-The analysis is conducted in a Jupyter Notebook (DSPM_HW2_vinayakk.ipynb) using Python, following the assignment's four main tasks:
+The analysis is conducted in a Jupyter Notebook (Customer_churn_prediction.ipynb) using Python, following the assignment's four main tasks:
 
 ## Exploratory Data Analysis (EDA) and Data Preparation:
 
